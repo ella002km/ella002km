@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Ella Lee. I'm a senior at the Ohio State University majoring in Information Systems.
 
 <!--
 **ella002km/ella002km** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
